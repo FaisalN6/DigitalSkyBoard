@@ -1,0 +1,11 @@
+node_modules
+vendor
+.git
+.gitignore
+.env
+storage/*.log
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+bootstrap/cache/*
+docker-compose.yml
